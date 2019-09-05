@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://macross-jks.bilibili.co/archive/fawkes/pack/iphone/2580835/enter/bili-universal.ipa</string>
+					<string>https://10.23.152.108/ios_bilicomic_lokta/2019_08_26_18_50_2.3.1_454/enter/comic-universal.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bilibili.bilianime</string>
 				<key>bundle-version</key>
-				<string>2.3.0</string>
+				<string>2.3.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
